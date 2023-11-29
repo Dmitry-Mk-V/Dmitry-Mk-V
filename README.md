@@ -1,7 +1,7 @@
-- 🤙🏻 Hi, I’m @Dmitry-Mk-V
-- 👀 I’m interested in QA/ Pythone/ Hardware Engineering/ MTB/ Traveling.
-- 👨🏻‍💻 I’m currently learning …QA(Test & Planning) Automatisation. Pythone. SQL.
-
+<h1 align="center"> 🤙🏻 Hi there, I'm Dmitry  </a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">👀 I’m interested in QA/ Pythone/ Hardware Engineering/ MTB/ Traveling</h3>
+<h4 align="center">👨🏻‍💻 I’m currently learning …QA(Test & Planning) Automatisation. Pythone. </h4>
 
 <!---
 Dmitry-Mk-V/Dmitry-Mk-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
